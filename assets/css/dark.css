@@ -1,0 +1,26 @@
+/* assets/css/dark.css */
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #90caf9;
+}
+
+.site-header,
+.site-footer,
+.site-nav {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+.post-meta,
+.site-title,
+.site-nav a {
+  color: #ccc;
+}
+p {
+  text-indent: 2em;
+}
+
