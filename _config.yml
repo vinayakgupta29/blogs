@@ -44,6 +44,10 @@ social_links:
     icon: discord
     username: Vector
     title: Discord
+  - url: "https://www.linkedin.com/in/vinayak-gupta-70a808202/"
+    icon: linkedin
+    username: Vinayak Gupta
+    title: LinkedIn
 
 theme: minima
 plugins:
