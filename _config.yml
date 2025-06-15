@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   As I am a self taught geek it entails a variety of thoughts on Tech and 
   as a human I hold a variety of thoughts on matter non-tech.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  vinayakgupta29
@@ -52,7 +52,7 @@ sass:
   sass_dir: _sass
   style: compressed
   css_dir: css 
-  
+
 markdown: kramdown
 include:
   - assets/
