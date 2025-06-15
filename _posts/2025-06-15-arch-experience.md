@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why I use Arch?"
+icon:   /assets/images/arch-linux.svg
 date:   2025-06-15 10:12:46 +0530
 author: Vinayak Gupta
 categories: [Tech, Linux, Arch]
@@ -100,7 +101,7 @@ And to this very day I'm using *Arch Linux* as my daily driver.
 - Code for hobby and for work.
 - Surf the internet... and pretty much everything a college student (esp. Engineering) can use it for...
 
-![My Arch Setup](/blogs/assets/images/arch_background.png)
+![My Arch Setup](/assets/images/arch_background.png)
 My Arch Setup
 
 ## End Thoughts... 🫠
@@ -119,4 +120,4 @@ Welcome to Arch, where we fight demons daily and call it a learning experience..
 
 See you on the other side of the River... closer to freedom... scarred from battle... but a win against the Big Brother... and don't forget to bring some snacks...
 
-![My Arch Setup](/blogs/assets/images/Uwu-owo.webp)
+![My Arch Setup](/assets/images/Uwu-owo.webp)
