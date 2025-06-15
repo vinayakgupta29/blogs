@@ -21,9 +21,7 @@
 title: Abhivyakti
 email: vinayakg236@gmail.com
 
-author:
-  email: vinayakg236@gmail.com
-  name: Vinayak Gupta
+author: Vinayak Gupta
 description: >- # this means to ignore newlines until "baseurl:"
   It's a collection of my thoughts and experiences in tech and non-tech.
   As I am a self taught geek it entails a variety of thoughts on Tech and 
@@ -32,22 +30,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-social_links:
-  - title: GitHub
-    url: https://github.com/vinayakgupta29/
-    icon: github
 github_username:  vinayakgupta29
-# theme: minima
+theme: minima
 # remote_theme: "jekyll/minima@1e8a445"
-# minima:
-#   skin: dark
+minima:
+  skin: dark
 include:
-  - assets
+  - assets/
 
 plugins:
   - jekyll-feed
   # - jekyll-remote-theme
-
+exclude:
+  - Gemfile
 
 # Exclude from processing.
 # The following items will not be processed, by default.
