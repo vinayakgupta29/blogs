@@ -18,7 +18,7 @@ categories: [Tech, Linux, Arch]
 
 ## Introduction
 
-![desktop](/blogs/assets/images/desktop.png)
+![desktop](/blogs/assets/images/arch-experience/desktop.png)
 
 In the section of the population that use computers, Linux users are a very fringe minority. Since most of us get a new Laptop or the PC/Desktop we get in offices and Schools are operating on Windows.
 
@@ -103,7 +103,7 @@ And to this very day I'm using *Arch Linux* as my daily driver.
 - Code for hobby and for work.
 - Surf the internet... and pretty much everything a college student (esp. Engineering) can use it for...
 
-![My Arch Setup](/blogs/assets/images/arch_background.png)
+![My Arch Setup](/blogs/assets/images/arch-experience/arch_background.png)
 My Arch Setup
 
 ## End Thoughts... 🫠
@@ -122,4 +122,4 @@ Welcome to Arch, where we fight demons daily and call it a learning experience..
 
 See you on the other side of the River... closer to freedom... scarred from battle... but a win against the Big Brother... and don't forget to bring some snacks...
 
-![My Arch Setup](/blogs/assets/images/Uwu-owo.webp)
+![My Arch Setup](/blogs/assets/images/arch-experience/Uwu-owo.webp)
