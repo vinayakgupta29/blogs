@@ -17,7 +17,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   # Gemfile
-  gem "minima", github: "jekyll/minima", ref: "1e8a445"
+  gem 'jekyll-seo-tag',"~> 2.8.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
