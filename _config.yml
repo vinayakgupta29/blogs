@@ -46,6 +46,14 @@ social_links:
     title: Discord
 
 theme: minima
+plugins:
+  - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
+  css_dir: css 
+  
+markdown: kramdown
 include:
   - assets/
 

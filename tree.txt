@@ -1,0 +1,51 @@
+/home/zoro/personal/blogs
+├── 404.html
+├── about.markdown
+├── assets
+│   ├── images
+│   │   ├── arch_background.png
+│   │   └── Uwu-owo.webp
+│   └── main.scss
+├── categories.md
+├── _config.yml
+├── _data
+│   └── social.yml
+├── Gemfile
+├── Gemfile.lock
+├── _includes
+│   ├── archive-by-catagories.html
+│   ├── archive-by-year.html
+│   ├── back-to-top.html
+│   ├── categories.html
+│   ├── comments.html
+│   ├── custom-head.html
+│   ├── footer.html
+│   ├── google-analytics.html
+│   ├── header.html
+│   ├── head.html
+│   ├── nav-items.html
+│   ├── social.html
+│   └── sub-footer.html
+├── index.markdown
+├── _layouts
+│   ├── base.html
+│   ├── categories.html
+│   ├── default.html
+│   ├── home.html
+│   ├── page.html
+│   ├── portfolio.html
+│   └── post.html
+├── portfolio.md
+├── _posts
+│   ├── 2025-06-15-arch-experience.md
+│   └── 2025-06-15-welcome-to-jekyll.markdown
+├── _sass
+│   ├── minima
+│   │   ├── _base.scss
+│   │   ├── _layout.scss
+│   │   └── _syntax-highlighting.scss
+│   └── minima.scss
+├── tree.txt
+└── vendor
+
+10 directories, 39 files

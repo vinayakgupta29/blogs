@@ -324,6 +324,7 @@ DEPENDENCIES
   csv (~> 3.3, >= 3.3.5)
   eventmachine (= 1.2.7)!
   github-pages
+  jekyll (~> 3.9.1)
   jekyll-compose
   jekyll-feed (~> 0.6)
   kramdown-parser-gfm
