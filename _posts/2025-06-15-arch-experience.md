@@ -5,7 +5,11 @@ date:   2025-06-15 10:12:46 +0530
 categories: Tech
 ---
 
-
+<style>
+    p {
+  text-indent: 2em;
+}
+    </style>
 In the section of the population that use computers, Linux users are a very fringe minority. Since most of us get a new Laptop or the PC/Desktop we get in offices and Schools are operating on Windows.
 
 For many people that are not deep into technology computer means Windows. Yeah, there is Mac but it's price tag deters most of the people and companies from it. And I wasn't untouched by the same reality. My very first Laptop I got during the First year of my Engineering degree is a Windows.
