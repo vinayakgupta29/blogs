@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I use Arch?"
-icon:   blogs/assets/images/arch-linux.svg
+icon:   arch-linux
 date:   2025-06-15 10:12:46 +0530
 author: Vinayak Gupta
 categories: [Tech, Linux, Arch]

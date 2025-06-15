@@ -29,7 +29,7 @@ layout: base
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }} {% if post.icon %}<img
-        src="{{ page.icon }}">{% endif %}
+        src="/blogs/assets/icons/{{ post.icon }}.svg">{% endif %}
           </a>
         </h3>
         {%- if site.minima.show_excerpts -%}

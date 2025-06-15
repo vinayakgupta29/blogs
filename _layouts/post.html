@@ -5,7 +5,7 @@ layout: base
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }} {% if page.icon %}<img
-        src="{{ page.icon }}">{% endif %} </h1>
+        src="/blogs/assets/icons/{{ page.icon }}.svg">{% endif %} </h1>
     <div class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {% assign pdate = page.date | date_to_xmlschema %}
