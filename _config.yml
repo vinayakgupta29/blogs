@@ -37,14 +37,14 @@ social_links:
     url: https://github.com/vinayakgupta29/
     icon: github
 github_username:  vinayakgupta29
-
-remote_theme: "jekyll/minima@1e8a445"
+theme: minima
+# remote_theme: "jekyll/minima@1e8a445"
 minima:
   skin: dark
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
 
 
 # Exclude from processing.
