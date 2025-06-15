@@ -38,7 +38,7 @@ social_links:
     icon: github
 github_username:  vinayakgupta29
 
-remote_theme: jekyll/minima@1e8a445
+remote_theme: "jekyll/minima@1e8a445"
 minima:
   skin: dark
 
