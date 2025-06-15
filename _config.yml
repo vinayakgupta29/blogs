@@ -22,6 +22,9 @@ title: Abhivyakti
 email: vinayakg236@gmail.com
 
 author: Vinayak Gupta
+author: 
+  name: Vinayak Gupta
+  email: vinayakg236@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   It's a collection of my thoughts and experiences in tech and non-tech.
   As I am a self taught geek it entails a variety of thoughts on Tech and 
@@ -31,18 +34,24 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  vinayakgupta29
+
+social_links:
+  - url: https://github.com/vinayakgupta29
+    username: Vinayakgupta29
+    icon: github
+    title: GitHub
+  - url:
+    icon: discord
+    username: Vector
+    title: Discord
+
 theme: minima
-# remote_theme: "jekyll/minima@1e8a445"
-minima:
-  skin: dark
 include:
   - assets/
 
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-exclude:
-  - Gemfile
+pages:
+  - url: https://vinayakgupta29.github.io/portfolio
+    title: My Portfolio 
 
 # Exclude from processing.
 # The following items will not be processed, by default.

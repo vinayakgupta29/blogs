@@ -2,14 +2,21 @@
 layout: post
 title:  "Why I use Arch?"
 date:   2025-06-15 10:12:46 +0530
-categories: Tech
+author: Vinayak Gupta
+categories: [Tech, Linux, Arch]
 ---
 
-<style>
-    p {
-  text-indent: 2em;
-}
-    </style>
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Major Reasons to pick Arch over every other Distro](#major-reasons-to-pick-arch-over-every-other-distro)
+- [DiY](#diy-approach)
+- [Fire](#fire)
+- [Experience with Arch](#experience-with-arch)
+- [End Thoughts](#end-thoughts-)
+
+## Introduction
+
 In the section of the population that use computers, Linux users are a very fringe minority. Since most of us get a new Laptop or the PC/Desktop we get in offices and Schools are operating on Windows.
 
 For many people that are not deep into technology computer means Windows. Yeah, there is Mac but it's price tag deters most of the people and companies from it. And I wasn't untouched by the same reality. My very first Laptop I got during the First year of my Engineering degree is a Windows.
@@ -93,6 +100,9 @@ And to this very day I'm using *Arch Linux* as my daily driver.
 - Code for hobby and for work.
 - Surf the internet... and pretty much everything a college student (esp. Engineering) can use it for...
 
+![My Arch Setup](/assets/images/arch_background.png)
+My Arch Setup
+
 ## End Thoughts... 🫠
 
 So, yeah if you are thinking of switching to Arch any time soon, hero,  just keep it clear that you'll break your system more often than you think. The error messages and logs speaking in tongues of the `Linux Gods` . No useful GUI to hold your hand through... Just the black screen of TTY and a blinking cursor.  And you should be able to fix it by yourself, decode the archaic texts. Tread through the forests of Reddit post & Forum posts... crwal through the swamps of Man Pages...
@@ -108,3 +118,5 @@ So, go on... give Arch a try... test your knowledge... test your patience... cau
 Welcome to Arch, where we fight demons daily and call it a learning experience...
 
 See you on the other side of the River... closer to freedom... scarred from battle... but a win against the Big Brother... and don't forget to bring some snacks...
+
+![My Arch Setup](/assets/images/Uwu-owo.webp)

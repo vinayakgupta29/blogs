@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Greetings Folks"
+title: "Home"
+header: "Greetings Folks 👋"
 ---
 
-This is the HomePage of my blog
+These writings are a collection of my thoughts on things from Tech to Philosphy and much more
