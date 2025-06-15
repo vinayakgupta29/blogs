@@ -371,7 +371,7 @@
       border: 1px solid $dm-border-color-01;
 
       &:hover {
-        dm-border-color: $dm-border-color-02
+        $dm-border-color: $dm-border-color-02
       }
     }
   }
@@ -400,7 +400,7 @@
       border: 1px solid $dm-border-color-01;
 
       &:hover {
-        dm-border-color: $dm-border-color-02
+        $dm-border-color: $dm-border-color-02
       }
     }
 
@@ -451,7 +451,6 @@
     z-index: -1;
 
     &::after {
-      position: absolute;
       top: -8px;
       left: -3px;
       width: 4px;
@@ -463,7 +462,7 @@
     }
 
     &:checked::after {
-      dm-border-color: $dm-border-color-03
+      $dm-border-color: $dm-border-color-03
     }
   }
 }
