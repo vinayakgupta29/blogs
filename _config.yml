@@ -40,7 +40,7 @@ include:
 
 plugins:
   - jekyll-feed
-  # - jekyll-remote-theme
+  - jekyll-remote-theme
 exclude:
   - Gemfile
 
