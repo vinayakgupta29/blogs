@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Incredible India"
-date:   2024-02-03
+date:   2025-06-22
 author: Vinayak Gupta
 categories: [Philosophy, Poetry, Expression]
 ---
