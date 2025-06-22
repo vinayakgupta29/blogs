@@ -41,6 +41,17 @@ body {
   flex-direction: column;
 }
 
+.poetry-post p {
+  margin-left: 0;
+  text-indent: 0;
+  /* reset indent */
+}
+
+.poetry-post p:nth-of-type(even) {
+  margin-left: 4em;
+  /* or whatever indent width you like */
+}
+
 
 p {
   text-indent: 2em;
@@ -190,12 +201,14 @@ code {
 
 code {
   padding: 1px 5px;
-  white-space: nowrap;
+  white-space: pre-wrap;
+
 }
 
 pre {
   padding: 8px 12px;
   overflow-x: auto;
+  white-space: pre-wrap;
 
   >code {
     border: 0;
@@ -204,6 +217,9 @@ pre {
   }
 }
 
+.categories {
+  color:$dm-text-color;
+}
 
 
 /**
