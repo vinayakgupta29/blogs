@@ -1,0 +1,16 @@
+sudo pacman -S ruby base-devel ruby-erb
+
+ruby -v
+
+gem install bundler jekyll
+
+cd path/to/this/dir/
+
+
+bundle install
+
+
+// serve using 
+
+bundle exec jekyll serve
+

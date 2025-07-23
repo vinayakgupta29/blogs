@@ -8,6 +8,7 @@
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
     {%- unless page_titles == empty %}
+    <input type="checkbox" id="nav-trigger" class="nav-trigger" style="display:none;" />
     <nav class="site-nav">
       <label for="nav-trigger">
         <span class="menu-icon"></span>
