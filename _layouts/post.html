@@ -30,9 +30,10 @@ layout: base
         {% endfor %}
 
         <i class="post-categories-icon fas fa-folder"></i>
-        {%- for category in page.categories %}
-        <span> {{category}}</span>
-        {% endfor %}
+        <span>  </span>
+       {%- for category in page.categories -%}
+          <span>{{ category }}</span>{% unless forloop.last %}, {% endunless %}
+      {%- endfor -%}
       </div>
       {%- endif %}
     </div>

@@ -3,7 +3,7 @@ layout: post
 title:  Aur Hame Vishvaguru Banana hai 
 date:   2025-08-04 
 author: Vinayak Gupta 
-categories: []
+categories: [ Litrature, WorldView ]
 ---
 
 
