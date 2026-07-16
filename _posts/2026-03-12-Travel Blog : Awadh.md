@@ -1,7 +1,7 @@
 --- 
 layout: post 
-title:  Travel Blog : Awadh 
-date:   2025-03-12 
+title:  Travel Blog - Awadh 
+date:   2026-03-12 
 author: Vinayak Gupta 
 categories: [Travel, Blog]
 ---
