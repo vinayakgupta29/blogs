@@ -5,9 +5,7 @@ date:   2026-07-27
 author: Vinayak Gupta 
 categories: [ Tech, Encryption, Rust, Compatibiity ]
 ---
-<!-- A title like **""** or **"Personal Bahi Khata v2: From Flutter to Rust"** would work well.
 
-- -->
 
 
 Two years ago I built **Personal Bahi Khata** as a small offline-first expense tracker. At the time, Flutter was the obvious choice for me. It allowed me to build a cross-platform application quickly while keeping everything local to the user's device.
@@ -214,4 +212,6 @@ My Old Blog : [Personal Bahi Khata Flutter](https://vinayakgupta29.github.io/blo
 
 
 Play Store Listing [<i class="fa-brands fa-google-play"></i>](https://play.google.com/store/apps/details?id=com.vins.bahi_khata&pcampaignid=web_share)
+<!-- A title like **""** or **"Personal Bahi Khata v2: From Flutter to Rust"** would work well.
 
+- -->
