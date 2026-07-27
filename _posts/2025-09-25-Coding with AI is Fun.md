@@ -3,7 +3,7 @@ layout: post
 title:  Coding with AI is Fun 
 date:   2025-09-25 
 author: Vinayak Gupta 
-categories: []
+categories: [Rant, Vibe Coding, Early AI]
 ---
 
 
