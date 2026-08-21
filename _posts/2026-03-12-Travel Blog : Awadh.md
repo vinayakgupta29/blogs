@@ -2,7 +2,8 @@
 layout: post 
 title:  "Travel Blog : Awadh" 
 date:   2026-03-12 
-author: Vinayak Gupta 
+author: Vinayak Gupta
+description : "A description blog of my travel experience to Awadh"
 categories: [Travel, Blog]
 ---
 A fantastic trip came to my mind on days prior I wanted to visit awadh. I planned initially to do it on weekends. As recently I've got a job that had me travelling places. And because of which I was in Barabanki UP,  which is 140 ish km from Awadh. 

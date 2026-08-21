@@ -3,6 +3,7 @@ layout: post
 title:  "Incredible India"
 date:   2025-06-22
 author: Vinayak Gupta
+description : "A poem written in satire and irony describing the Incredible Nation that I live in (India)"
 categories: [Philosophy, Poetry, Expression]
 ---
 

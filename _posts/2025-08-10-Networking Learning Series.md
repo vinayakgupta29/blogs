@@ -4,6 +4,8 @@ title:  Networking Learning Series
 date:   2025-08-10 
 author: Vinayak Gupta 
 contact: vinayakg236@gmail.com
+description: "A series of blogs addressing my journey to learn Networking from as scratch as I can get like C"
+permalink : /networking-in-c-base/
 categories: [ Tech, Networking, Learning ]
 ---
 
@@ -53,3 +55,15 @@ func main() {
 
 
 ```
+
+An update has been made and a new chapter is on the way we started with a basic server that can have text based HTTP responses
+
+if you want you can look it up on this repo and look at specific commits for specific things
+
+[Github Repo](https://github.com/vinayakgupta29/http_server_in_C)
+
+| Name | Link | Commit Hash |
+|---|---|---|
+| Base Chapter | | |
+| Safe String | | |
+| Signal Handling | | |

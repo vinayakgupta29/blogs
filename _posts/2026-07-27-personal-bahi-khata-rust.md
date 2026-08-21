@@ -3,6 +3,7 @@ layout: post
 title:  Why I Rewrote Personal Bahi Khata in Rust
 date:   2026-07-27 
 author: Vinayak Gupta 
+description : "with time and requirements, moved the personal Expense manager to Rust cause it is stable and C is scary"
 categories: [ Tech, Encryption, Rust, Compatibiity ]
 ---
 

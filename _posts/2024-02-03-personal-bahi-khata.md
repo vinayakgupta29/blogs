@@ -3,6 +3,7 @@ layout: post
 title:  "Personal Bahi Khata"
 date:   2024-02-03
 author: Vinayak Gupta
+description : "A blog describing my journey in creating a personal finance management app that sucks less and is not dependant on AI and Cloud like every other thing in the market"
 categories: [Tech, Encryption, Flutter]
 ---
 

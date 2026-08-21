@@ -21,7 +21,8 @@
 title: Abhivyakti
 email: vinayakg236@gmail.com
 
-author: Vinayak Gupta
+lang: en
+
 author: 
   name: Vinayak Gupta
   email: vinayakg236@gmail.com
@@ -30,10 +31,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   As I am a self taught geek it entails a variety of thoughts on Tech and 
   as a human I hold a variety of thoughts on matter non-tech.
 
+url: "https://vinayakgupta29.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 baseurl: "/blogs" # the subpath of your site, e.g. /blog
 permalink: /:year-:month-:day/:title/
 
-url: "vinayakgupta29.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  vinayakgupta29
 
@@ -54,6 +56,8 @@ social_links:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 sass:
   sass_dir: _sass
   style: compressed

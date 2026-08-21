@@ -2,7 +2,8 @@
 layout: post 
 title:  Navigating Social Scenarios as a Neuro-Divergent Individual (a Manual of sorts) 
 date:   2025-09-14 
-author: Vinayak Gupta 
+author: Vinayak Gupta
+description : "A personal guide to navigating social situations in the work filled with neuro-typicals for the Autistic fellows"
 categories: [Manual, Guide, Self-Help]
 ---
 

@@ -4,6 +4,7 @@ title:  "Why I use Arch?"
 icon:   arch-linux
 date:   2025-06-15 10:12:46 +0530
 author: Vinayak Gupta
+description : "Description of my experience with Arch linux"
 categories: [Tech, Linux, Arch]
 ---
 

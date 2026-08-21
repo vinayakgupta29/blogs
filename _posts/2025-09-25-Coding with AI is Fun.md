@@ -3,6 +3,7 @@ layout: post
 title:  Coding with AI is Fun 
 date:   2025-09-25 
 author: Vinayak Gupta 
+description : "Rant on how early LLMs and coding agents around late 2025 were a pain in the ASS to work with"
 categories: [Rant, Vibe Coding, Early AI]
 ---
 

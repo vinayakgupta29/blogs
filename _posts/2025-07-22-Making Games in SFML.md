@@ -2,6 +2,7 @@
 layout: post
 title: "Making Games on a Potato Laptop: Why I Chose SFML"
 date: 2026-07-16
+description : "My Game Dev journey with CPP and SFML cause OpenGL is scary"
 categories: [Gamedev, CPP, SFML, ADHD, Indie, Low-Level]
 ---
 

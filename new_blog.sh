@@ -2,6 +2,7 @@
 
 DATE="_"
 TITLE="_"
+DESC="_"
 
 if [[ $# -eq 0 ]]; then
    echo -e "Usage use it with \n --title to give title \n and \n --date to give it date \n"
@@ -21,6 +22,10 @@ while [[ $# -gt 0 ]]; do
       #echo $DATE
       shift 2
       ;;
+    --desc)
+      DESC="$2"
+      shift 2
+      ;;
     *)
       echo "Usage use it with\n --title to give title \n and \n --date to give it date \n"
       exit 1
@@ -36,7 +41,8 @@ FILE="./_posts/$NAME.md"
 
 HEADER="--- 
 layout: post 
-title:  $TITLE 
+title:  $TITLE
+description : \"$DESC\"
 date:   $DATE 
 author: Vinayak Gupta 
 categories: []

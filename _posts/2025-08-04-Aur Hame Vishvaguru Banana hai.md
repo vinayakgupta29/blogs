@@ -2,7 +2,8 @@
 layout: post 
 title:  Aur Hame Vishvaguru Banana hai 
 date:   2025-08-04 
-author: Vinayak Gupta 
+author: Vinayak Gupta
+description : "A Satire article going over how the notion of India becoming Vishwaguru is not a possibility in reality rather it's just a dystopian fantasy"
 categories: [ Litrature, WorldView ]
 ---
 

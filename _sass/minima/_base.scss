@@ -287,11 +287,6 @@ table {
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
 
-  tr {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
-    }
-  }
 
   th,
   td {
@@ -299,7 +294,7 @@ table {
   }
 
   th {
-    background-color: lighten($grey-color-light, 3%);
+    background-color: lighten($grey-color-dark, 3%);
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }

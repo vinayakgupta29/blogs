@@ -3,6 +3,7 @@ layout: post
 title:  "Setting up Hyprland with Arch"
 date:   2025-07-05
 author: Vinayak Gupta
+description : "describing my arch setup but now with Hyprland cause I'm Larping and Ricing now"
 categories: [Tech, Arch Linux,Hypland ]
 ---
 
